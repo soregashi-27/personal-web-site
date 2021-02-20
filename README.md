@@ -1,3 +1,7 @@
+# This is my first portfolio site. Built on React.js
+
+I have my own profile, skils and personal information. Let's go enjoy!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
