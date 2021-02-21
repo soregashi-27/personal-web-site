@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## <>Owned Media mainly develop.</>
 
 Website below.
-(In preparatin)
+(In preparating)
 
 
 ## <>Available Scripts</>
