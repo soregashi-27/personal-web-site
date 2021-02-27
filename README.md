@@ -16,7 +16,7 @@ Website below.
 **OPTIMIZE**: There is a lot of waste and it is a bottleneck.\
 **CHANGED**: Note how I changed the code.\
 **NOTE**: why how I changed the code.\
-**WARNING**: Need to be careful!!\
+**WARNING**: Need to be careful!!
 
 
 ## <>Available Scripts</>
