@@ -7,6 +7,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Website below.
 (In preparating)
 
+## <>Comments.</>
+**TODO**: Some features should be added or fixed later.\
+**FIX ME**: Code with known defects. Needs to be fixed.\
+**HACK**: Not so clean code. Have to be refactored.\
+**DANGER**: Danger! It works, but I don't know why it works.\
+**REVIEW**: Review to see if it works as intended.\
+**OPTIMIZE**: There is a lot of waste and it is a bottleneck.\
+**CHANGED**: Note how I changed the code.\
+**NOTE**: why how I changed the code.\
+**WARNING**: Need to be careful!!\
+
 
 ## <>Available Scripts</>
 
