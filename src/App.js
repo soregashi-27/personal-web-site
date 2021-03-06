@@ -12,6 +12,7 @@ function App() {
       </div>
       <div className="main-content">
         <div className="content">
+          {/* FIXME:ここが原因のエラーを解決する */}
           <Switch>
             <Route path="/home" exact>
               <HomePage />
