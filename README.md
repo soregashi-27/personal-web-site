@@ -2,11 +2,28 @@
 
 I have my own profile, skils and personal information. Let's go enjoy!
 
-# Getting Started with Create React App
+# <>Getting Started with Create React App</>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## <>Owned Media mainly develop.</>
+
+Website below.
+(In preparating)
+
+## <>Comments.</>
+**TODO**: Some features should be added or fixed later.\
+**FIXME**: Code with known defects. Needs to be fixed.\
+**HACK**: Not so clean code. Have to be refactored.\
+**DANGER**: Danger! It works, but I don't know why it works.\
+**REVIEW**: Review to see if it works as intended.\
+**OPTIMIZE**: There is a lot of waste and it is a bottleneck.\
+**CHANGED**: Note how I changed the code.\
+**NOTE**: why how I changed the code.\
+**WARNING**: Need to be careful!!
+
+
+## <>Available Scripts</>
 
 In the project directory, you can run:
 
@@ -43,7 +60,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## <>Learn More React.js</>
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
