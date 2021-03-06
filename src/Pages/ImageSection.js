@@ -10,7 +10,7 @@ function ImageSection() {
       <div className="about-info">
         <h4>
           このサイトにお越しいただきありがとうございます！
-          <span>杉山友啓</span>
+          <span>Tomohiro</span>
           です。
         </h4>
         <p className="about-text">自己紹介を追加します。只今編集中です。</p>
