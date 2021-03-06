@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Portfolios() {
+function PortfoliosPage() {
   return (
     <div>
       <h1>Portfolios Page</h1>
@@ -8,4 +8,4 @@ function Portfolios() {
   );
 }
 
-export default Portfolios;
+export default PortfoliosPage;
