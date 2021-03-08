@@ -2,6 +2,8 @@ import React from 'react';
 import Tittle from '../Components/Tittle';
 import ImageSection from '../Components/ImageSection';
 import SkillsSection from '../Components/SkillsSection';
+import ServiceSection from '../Components/ServiceSection';
+import design from '../img/design.svg';
 
 function AboutPage() {
   return (
@@ -22,6 +24,12 @@ function AboutPage() {
         <SkillsSection skill={'Kotlin'} progress={'80%'} width={'80%'} />
         <SkillsSection skill={'Web Design'} progress={'25%'} width={'25%'} />
         <SkillsSection skill={'UI/UX Design'} progress={'76%'} width={'76%'} />
+      </div>
+
+      <div className="services-container">
+        <ServiceSection image={design} title={'Web Design'} />
+        <ServiceSection image={design} title={'Web Design'} />
+        <ServiceSection image={design} title={'Web Design'} />
       </div>
     </div>
   );
