@@ -4,6 +4,8 @@ import ImageSection from '../Components/ImageSection';
 import SkillsSection from '../Components/SkillsSection';
 import ServiceSection from '../Components/ServiceSection';
 import design from '../img/design.svg';
+import intelligence from '../img/intelligence.svg';
+import gamedev from '../img/game-dev.svg';
 
 function AboutPage() {
   return (
@@ -26,10 +28,30 @@ function AboutPage() {
         <SkillsSection skill={'UI/UX Design'} progress={'76%'} width={'76%'} />
       </div>
 
+      <Tittle title={'services'} span={'services'} />
       <div className="services-container">
-        <ServiceSection image={design} title={'Web Design'} />
-        <ServiceSection image={design} title={'Web Design'} />
-        <ServiceSection image={design} title={'Web Design'} />
+        {/* FIXME:Interestingへ変更 */}
+        <ServiceSection
+          image={design}
+          title={'Web Design'}
+          text={
+            'どんなサービスに貢献できるか、何がしたいのかの説明が入ります。'
+          }
+        />
+        <ServiceSection
+          image={intelligence}
+          title={'Artifical Intelligence'}
+          text={
+            'どんなサービスに貢献できるか、何がしたいのかの説明が入ります。'
+          }
+        />
+        <ServiceSection
+          image={gamedev}
+          title={'gamedev'}
+          text={
+            'どんなサービスに貢献できるか、何がしたいのかの説明が入ります。'
+          }
+        />
       </div>
     </div>
   );
