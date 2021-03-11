@@ -18,9 +18,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## <>How to manage branches</>
 
-Mainly three branches.
-**Master** - Version management
-**Develop** - master of develop
+Mainly three branches.\
+**Master** - Version management\
+**Develop** - master of develop\
 **Feature** - Develop separate topics
 
 feature/000_developmentDetails
