@@ -4,9 +4,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## <>Owned Media mainly develop.</>
 
-Website below.
-(In preparating)
-
 ## <>Rule of comments.</>
 **TODO**: Some features should be added or fixed later.\
 **FIXME**: Code with known defects. Needs to be fixed.\
