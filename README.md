@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Website below.
 (In preparating)
 
-## <>Comments.</>
+## <>Rule of comments.</>
 **TODO**: Some features should be added or fixed later.\
 **FIXME**: Code with known defects. Needs to be fixed.\
 **HACK**: Not so clean code. Have to be refactored.\
