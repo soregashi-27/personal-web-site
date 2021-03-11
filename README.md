@@ -19,6 +19,16 @@ Website below.
 **WARNING**: Need to be careful!!
 
 
+## <>How to manage branches</>
+
+Mainly three branches.
+**Master** - Version management
+**Develop** - master of develop
+**Feature** - Develop separate topics
+
+feature/000_developmentDetails
+
+
 ## <>Available Scripts</>
 
 In the project directory, you can run:
