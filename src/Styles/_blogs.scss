@@ -1,0 +1,42 @@
+.BlogsPage {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 2.5rem;
+  margin-top: 4rem; //一時的に追加
+  .blog {
+    background-color: #161925;
+    width: 100%;
+    padding: 1rem;
+    overflow: hidden;
+    .blog-content {
+      overflow: hidden;
+      padding-bottom: 2rem;
+      img {
+        width: 100%;
+        transition: all 0.4s ease-in-out;
+        &:hover {
+          transform: scale(1.2);
+          //FIXME:1.4だとかなり動くので検討
+        }
+        padding-bottom: 2rem;
+      }
+      .blog-link {
+        color: inherit;
+        font-family: inherit;
+        text-decoration: none;
+        font-size: 2rem;
+        // margin: 2rem 0;
+        padding-bottom: 2rem;
+        transition: all 0.4s ease-in-out;
+        &:hover {
+          color: #037fff;
+          //文字のカラーのみ指定
+        }
+      }
+    }
+  }
+
+  .blog-tittle {
+    margin-bottom: 6rem;
+  }
+}
