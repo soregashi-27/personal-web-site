@@ -1,9 +1,15 @@
 import React from 'react';
+import ContactItem from '../Components/ContactItem';
 
 function ContactPage() {
   return (
-    <div>
-      <h1>Contact Page</h1>
+    <div className="ContactPage">
+      <div className="map-sect"></div>
+      <div className="contact-sect">
+        <ContactItem />
+        <ContactItem />
+        <ContactItem />
+      </div>
     </div>
   );
 }
