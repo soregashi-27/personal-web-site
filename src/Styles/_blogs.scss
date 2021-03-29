@@ -3,6 +3,10 @@
   grid-template-columns: repeat(2, 1fr);
   grid-gap: 2.5rem;
   margin-top: 4rem; //一時的に追加
+  @media screen and (max-width: 1080px) {
+    grid-template-columns: repeat(2, 1fr);
+    grid-map: 2rem;
+  }
   .blog {
     background-color: #161925;
     width: 100%;

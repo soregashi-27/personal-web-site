@@ -26,7 +26,11 @@
 
 .ContactPage {
   display: flex;
-
+  grid-template-columns: repeat(2, 1fr);
+  margin-bottom: 6rem;
+  @media screen and (max-width: 1270px) {
+    grid-template-columns: repeat(2, 1fr);
+  }
   .contact-sect {
     width: 100%;
     // margin-left: 2rem;
