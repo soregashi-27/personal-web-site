@@ -3,7 +3,7 @@ import { NavLink } from 'react-router-dom';
 
 function Categories({ filter, categories }) {
   return (
-    <div>
+    <div className="buttons">
       {categories.map((categoriesBtn, i) => {
         return (
           <button
