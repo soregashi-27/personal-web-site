@@ -73,3 +73,36 @@
   row-gap: 3rem;
   margin: 4rem 0;
 }
+
+.btn-port {
+  padding: 1rem 2rem;
+  background-color: #0381ff5b;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-size: inherit;
+  color: white;
+  margin-bottom: 1rem;
+  transform: all 0.3s ease-in-out;
+  &:not(:last-child) {
+    margin-right: 1rem;
+  }
+  &:hover {
+    background-color: #037fff;
+  }
+  &:active {
+    background-color: #037fff;
+  }
+  &:focus {
+    background-color: #037fff;
+  }
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  // margin: 4rem 10rem;
+  //FIXME: 削除するか検討中
+  flex-wrap: wrap;
+}
